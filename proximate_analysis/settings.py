@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-4e$lwd9us9tz(yjg$18fo6v%%!k3jscnz_ltjeedj^oaik_^n5
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'proximate-calc.onrender.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'proximatecalc.onrender.com']
 
 # Application definition
 
