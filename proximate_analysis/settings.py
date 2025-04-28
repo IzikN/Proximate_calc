@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-4e$lwd9us9tz(yjg$18fo6v%%!k3jscnz_ltjeedj^oaik_^n5'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'onrender.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'proximate-calc.onrender.com']
 
 # Application definition
 
